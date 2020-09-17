@@ -32,5 +32,6 @@ L’ Iliade adattata da Baricco è molto più fluida e scorrevole da leggere del
 _Andrea Bortolotti_
 
 ---
+
 <br><br><br>
-> [:leftwards_arrow_with_hook: Torna all' indice](README.md)
+> [:leftwards_arrow_with_hook: Torna all' indice](https://github.com/bortox/Compiti-di-Epica/blob/master/README.md)
