@@ -1,6 +1,4 @@
 # Esercizi Pagine 206 e 207 <!-- Metadata: type: Outline; created: 2020-09-15 17:33:21; reads: 21; read: 2020-09-16 15:19:14; revision: 21; modified: 2020-09-16 15:19:14; importance: 4/5; urgency: 5/5; progress: 100%; -->
-# Esercizi pagine 206 e 207 <!-- Metadata: type: Note; created: 2020-09-15 17:33:21; reads: 10; read: 2020-09-15 22:06:36; revision: 7; modified: 2020-09-15 22:06:36; -->
-
 1. > Da questo brano capiamo che anche in tempi di guerra Andromaca e le sue ancelle si occupano ad occupazioni quotidiane come tessere o riscaldare l' acqua per preparare un caldo bagno. <!-- Metadata: type: Note; created: 2020-09-15 22:06:36; reads: 1; read: 2020-09-15 22:06:36; revision: 1; modified: 2020-09-15 22:06:36; -->
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2. > La scena iniziale ti appare improntata a
@@ -33,7 +31,6 @@ Appena Andromaca ode singhiozzo e gemito provenire dai bastioni delle mura **ric
 8. > Secondo me questa ipotesi è giusta poiché la morte di Ettore, priva la città del suo principale difensore ed eroe.  <!-- Metadata: type: Note; created: 2020-09-15 22:06:36; reads: 7; read: 2020-09-16 15:19:00; revision: 1; modified: 2020-09-15 22:06:36; -->
 ---------------------------------------------------------------------------------------------------------------------------
 
-Note <!-- Metadata: type: Note; created: 2020-09-15 22:06:36; reads: 15; read: 2020-09-16 15:19:14; revision: 4; modified: 2020-09-16 15:19:14; -->
 ----
 9. > Una notte di tenebra coperse i suoi occhi significa che Andromaca non vide più niente quando svenì e sprofondò nel buio che richiama la tensione per la morte del marito.
 ---
@@ -44,8 +41,7 @@ Note <!-- Metadata: type: Note; created: 2020-09-15 22:06:36; reads: 15; read: 2
 VERIDICO|REALE|AUTENTICO|VERITÀ
 
 ---
-Note <!-- Metadata: type: Note; created: 2020-09-15 22:06:36; reads: 10; read: 2020-09-16 15:18:11; revision: 2; modified: 2020-09-16 15:18:11; -->
-----
+
 11. > Termini derivati da antichi gerundivi latini (come veneranda)
     > * Maturando
     > * Educanda
