@@ -20,5 +20,6 @@ Quando il glorioso Achille finì di piangere, trasformò il suo desiderio in fat
 <sup><sub>Andrea Bortolotti</sub></sup>
 ___
 
+
 <br><br><br>
-> [:leftwards_arrow_with_hook: Torna all' indice](https://github.com/bortox/Compiti-di-Epica/blob/master/README.md)
+> [↩️ Torna all' indice](../README.md)
