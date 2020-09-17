@@ -34,4 +34,4 @@ _Andrea Bortolotti_
 ---
 
 <br><br><br>
-> [:leftwards_arrow_with_hook: Torna all' indice](https://github.com/bortox/Compiti-di-Epica/blob/master/README.md)
+> [↩️ Torna all' indice](../README.md)
