@@ -115,7 +115,7 @@ Ferocia| SÌ | SÌ ( meno )
 
 23. > **Nel tratto**
     >_No, cane, non mi invocare, né per i ginocchi né per i genitori; ah! L' ira e il furore mi spingerebbero a lacerarti e sbranarti vivo, a causa di ciò che mi hai fatto, nessuno potrà allontanare le cagne dal tuo corpo, neanche se mi compensassero con un riscatto infinito dieci, venti volte, anche se promettessero qualsiasi cosa: non ti restituirò nemmeno se Priamo discendente di Dardano a peso d' oro mi compenserà, la nobile madre non piangerà il figlio che ha partorito steso sul letto, ma cani e uccelli ti sbraneranno totalmente._
-23. >**ho trovato le seguenti figure retoriche:**
+    >**ho trovato le seguenti figure retoriche:**
 * > -  **climax**, ossia una disposizione dei termini di negazione ( in questo caso ) in un crescendo.**
 * > - **Polisindeto**, un uso ripetuto delle congiunzioni ( principalmente negazioni )  per creare ritmo
 
