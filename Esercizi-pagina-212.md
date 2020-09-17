@@ -24,11 +24,6 @@
 
 ---
 
-. <!-- Metadata: type: Note; created: 2020-09-16 14:27:39; reads: 16; read: 2020-09-17 10:18:01; revision: 2; modified: 2020-09-17 10:17:51; --> <!-- Metadata: type: Note; created: 2020-09-17 10:18:22; reads: 5; read: 2020-09-17 10:19:09; revision: 1; modified: 2020-09-17 10:18:22; -->
-
----
-
-
 7. > Achille aiuta Priamo a rialzarsi ed esprime compassione. <!-- Metadata: type: Note; created: 2020-09-17 10:18:22; reads: 3; read: 2020-09-17 10:19:09; revision: 1; modified: 2020-09-17 10:18:22; -->
 
 ---
