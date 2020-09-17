@@ -1,4 +1,4 @@
-# Collegamenti ai compiti di Epica delle vacanze 2020
+# Collegamenti ai compiti di Epica delle "vacanze" 2020
 #### Andrea Bortolotti
 1. Parafrasi ed Esercizi: 
     * Il duello tra Ettore e Achille
@@ -15,5 +15,7 @@
       - [x] Percorso di Lettura ( letto )
       - [x] Esercizi (218)
 2. Recensioni:
- * [x] Alessandro Baricco
- * [x] [Maria Grazia Ciani](recensioneciani.md)
+ * [x] [Alessandro Baricco](Recensioni Iliade/Baricco.md)
+ * [x] [Maria Grazia Ciani](Recensioni Iliade/Maria Grazia Ciani.md)
+
+> Libro di Epica: Narrami o musa, seconda edizione
