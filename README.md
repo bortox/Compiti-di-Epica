@@ -15,7 +15,7 @@
       - [x] Percorso di Lettura ( letto )
       - [x] Esercizi (218)
 2. Recensioni:
- * [x] [Alessandro Baricco](Recensioni Iliade/Baricco.md)
- * [x] [Maria Grazia Ciani](Recensioni Iliade/Maria Grazia Ciani.md)
+ * [x] [Alessandro Baricco]('Recensioni Iliade/Baricco.md')
+ * [x] [Maria Grazia Ciani]('Recensioni Iliade/Maria Grazia Ciani.md')
 
 > Libro di Epica: Narrami o musa, seconda edizione
