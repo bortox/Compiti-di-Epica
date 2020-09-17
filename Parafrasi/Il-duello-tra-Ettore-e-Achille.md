@@ -32,3 +32,5 @@ Ettore, elmo lucente, rispose morendo:
 > Ti riconosco, guardandoti: non potevo persuaderti, di certo, visto che nel petto hai un cuore di pietra. Bada però che io non sia la causa dell’ira degli dei contro di te, quel giorno che Paride e Febo Apollo ti uccideranno sopra le mura di Troia, per quanto tu sia forte.
 
 Mentre diceva così, lo avvolse la morte: la vita volò via dal suo corpo e  scese nell’Ade, piangendo il suo destino, lasciando la giovinezza e il vigore.
+<br><br><br>
+> [:leftwards_arrow_with_hook: Torna all' indice](README.md)
