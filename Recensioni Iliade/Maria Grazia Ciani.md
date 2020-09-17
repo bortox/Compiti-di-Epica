@@ -21,5 +21,6 @@ La maggior parte delle descrizioni, sebbene siano lunghe, sono molto suggestive 
 <sub>Andrea Bortolotti</sub>
 
 ---
+
 <br><br><br>
-> [:leftwards_arrow_with_hook: Torna all' indice](README.md)
+> [:leftwards_arrow_with_hook: Torna all' indice](https://github.com/bortox/Compiti-di-Epica/blob/master/README.md)
