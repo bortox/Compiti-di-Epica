@@ -1,5 +1,6 @@
 # Collegamenti ai compiti di Epica delle vacanze 2020
-1. Parafrasi: 
+#### Andrea Bortolotti
+1. Parafrasi ed Esercizi: 
     * Il duello tra Ettore e Achille
       - [x] Parafrasi
       - [x] Esercizi (203,204)
