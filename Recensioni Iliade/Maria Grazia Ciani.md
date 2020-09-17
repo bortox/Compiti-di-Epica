@@ -2,7 +2,7 @@
  ### Dati Editoriali
 Il seguente libro - Omero, Iliade di Maria Grazia Ciani, versione integrale - è stato pubblicato da Marsilio Editori s.p.a. La prima edizione risale al 2016, quella che possiedo è del 2017.
  ### Narratore, focalizzazione e breve sintesi
-Il poema epico dell’ Iliade, parafrasato dal greco da Maria Grazia Ciani, canta di uomini ed eroi, memorabili nell’ espressione di sé e delle loro emozioni, dentro un eterno campo di battaglia, mentre gli dei dominano la scena e promuovono e determinano ogni vicenda umana. La narrazione è in terza persona, il narratore è esterno e onnisciente, ordunque c'è focalizzazione zero: il narratore non assume il punto di vista di un personaggio in particolare, i tempi sono prevalentemente al passato, il narratore sollecita riflessioni sui temi cantati.
+Il poema epico dell’ Iliade, parafrasato dal greco da Maria Grazia Ciani, _canta di uomini ed eroi, memorabili nell’ espressione di sé e delle loro emozioni, dentro un eterno campo di battaglia, mentre gli dei dominano la scena e promuovono e determinano ogni vicenda umana_. La narrazione è in terza persona, il narratore è esterno e onnisciente, ordunque c'è focalizzazione zero: il narratore non assume il punto di vista di un personaggio in particolare, i tempi sono prevalentemente al passato, il narratore sollecita riflessioni sui temi cantati.
  ### Spazio e Tempo
 Il racconto di questa guerra si svolge soprattutto intorno alla città di Troia, ed è narrato l’ ultimo anno della guerra tra Greci e Troiani.
  ### Sistema dei Personaggi e Trama
