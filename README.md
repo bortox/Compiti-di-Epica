@@ -1,1 +1,0 @@
-# Compiti-di-Epica
