@@ -32,5 +32,3 @@ L’ Iliade adattata da Baricco è molto più fluida e scorrevole da leggere del
 _Andrea Bortolotti_
 
 ---
-# Note <!-- Metadata: type: Note; created: 2020-09-16 15:26:33; reads: 1; read: 2020-09-16 15:26:33; revision: 1; modified: 2020-09-16 15:26:33; -->
-
