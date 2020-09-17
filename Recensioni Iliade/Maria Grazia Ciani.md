@@ -21,5 +21,3 @@ La maggior parte delle descrizioni, sebbene siano lunghe, sono molto suggestive 
 <sub>Andrea Bortolotti</sub>
 
 ---
-# Note <!-- Metadata: type: Note; created: 2020-09-16 15:26:53; reads: 1; read: 2020-09-16 15:26:53; revision: 1; modified: 2020-09-16 15:26:53; -->
-
