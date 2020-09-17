@@ -96,5 +96,3 @@
     > _il cavallo si è spaventato per il fragore del treno_    
     > Spaventare significa incutere spavento, riempire di spavento, provocare timore  
     
-# Note <!-- Metadata: type: Note; created: 2020-09-16 15:20:48; reads: 1; read: 2020-09-16 15:20:48; revision: 1; modified: 2020-09-16 15:20:48; -->
-
