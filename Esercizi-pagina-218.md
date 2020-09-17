@@ -1,0 +1,100 @@
+# Esercizi pagina 218 <!-- Metadata: type: Outline; created: 2020-09-16 15:20:48; reads: 9; read: 2020-09-17 18:06:20; revision: 9; modified: 2020-09-17 18:06:20; importance: 0/5; urgency: 0/5; -->
+1. a
+    > Priamo invita tutti i Troiani ad accorrere dicendo _Venite a vedere Ettore, Troiani e Troiane, se mai gioiste, quando vivo tornava dalla battaglia; perché era gioia grande per la città e a tutto il popolo_
+   
+   b
+    > Nessun uomo e nessuna donna rimane ferm@ in cittò, vengono tutti a incontrare il re che portava il cadavere, vinti da insopportabile strazio.
+
+   c
+    > Ettore, come dice Andromaca nel suo lamento (_Innanzitutto l' intera città sarà distrutta perché tu, il suo difensore, sei morto, tu che la proteggevi, salvavi i piccoli figli e le spose._ ) era il difensore della città, dei piccoli figli e delle spose.
+
+    d
+    > Andromaca ed Ecuba manifestano il loro dolore piangendo Ettore, cantando dei lamenti e strappandosi i capelli mentre gli stringono il capo.
+
+    e
+    > Priamo ordina di fare largo al suo carro, cosicché possa condurre Ettore al palazzo reale, dove tutti i troiani potranno piangerlo e onorarlo.
+
+2. a
+    > Le paure di Andromaca sono quelle di diventare schiava dei Greci e lasciare suo figlio ad un futuro doloroso, o come schiavo di un Acheo oppure ucciso da un Acheo irato perché Ettore gli aveva ucciso un parente. Il suo rimpianto mette in evidenza la forza di Ettore.
+
+    b
+    > Ecuba si rivolge al figlio comunicandogli che gli dei lo hanno protetto anche dopo la sua morte: il suo corpo non è sfregiato nonostante Achille lo abbia strascicato per terra per giorni e giorni. Inoltre dice che è carissimo al suo animo più degli altri figli.
+
+    c
+    > Elena mette in evidenza la dolcezza, la lealtà e l' abilità nel parlare di Ettore. A mio avviso si sente responsabile poiché è etichettata come causa della guerra da quando Alessandro l' ha condotta a Troia, e senza guerra ci sarebbero stati meno morti.
+3. > Azioni per celebrare il rito funebre:
+    * Processione del morto su un carro.
+    * I familiari donne si strappano i capelli.
+    * Canzoni di dolore cantate da cantori.
+    * Posa temporanea del corpo su un letto a trafori
+    * Lamenti di ogni conoscente del defunto
+    * Raccolta della legna per il rogo funebre
+    * Rogo funebre
+    * Spegnimento del rogo con il vino
+    * Raccolta delle ossa del defunto
+    * Conservazione delle ossa del defunto in morbide stoffe
+    * Creazione di una profonda buca
+    * Inserimento delle stoffe contenenti le ossa nella buca
+    * Deposizione delle pietre sopra la buca, chiusura di essa
+    * Costruzione di un rialzo sulla tomba (tumulo)
+    * Banchettare un glorioso banchetto nella casa del Re.
+    
+    > L' atto finale dell' intero rito è un glorioso banchetto
+4. > 
+    a
+
+    PERSONAGGIO/GRUPPO|EPITETO|SPIEGAZIONE
+    |-----|--|----|
+    Araldo|voce che grida in città|Gli araldi annunciavano le notizie ai cittadini, anche perché in gran parte la popolazione era analfabeta
+    Ecuba|Veneranda madre| Ecuba è la veneranda madre di Ettore.
+    Ettore|Massacratore| Ha ucciso numerosi Achei.
+    Achille|Piede Rapido|Achille correva veloce.
+    Apollo|Arco d' Argento|Apollo possedeva un arco d' argento
+    Alessandro|Simile ai numi|Per la sua bellezza, Paride era considerato simile agli dei.    
+   
+     b. 
+
+    COSA|EPITETO|SPIEGAZIONE
+    |---|---|---|
+    Aurora|Luce ai mortali|L' Aurora portava la luce del giorno sulla terra.
+    |Bende|Splendenti| Andromaca possedeva ornamenti dell' acconciatura splendenti. La benda è una striscia di stoffa che si porta avvolta intorno al capo, per trattenere i capelli o per ornamento, come segno di consacrazione alla divinità.
+
+5. > Evidenzio i verbi che introducono o chiudono il lamento funebre di Andromaca, Ecuba ed Elena, indico quali mi appaiono come versi formulari
+
+    VERSO|FORMULARE SÌ/NO|
+     :----: | -- |
+    Fra di loro Andromaca incominciò il lamento di Ettore il massacratore abbracciandogli la testa| SÌ
+    Andromaca disse ciò, singhiozzando, le donne intorno piangevano. | SÌ
+    Tra loro anche Ecuba iniziò il suo lamento:| SÌ
+    Così disse piangendo e suscitò singhiozzo infinito| SÌ
+    allora, fra di loro, per terza, Elena cominciò il lamento| SÌ
+    Disse così piangendo, l' immensa folla gemeva. | SÌ
+    
+    Tutti i versi di inizio lamento e di fine lamento sono formulari. All' inizio di ogni lamento è scritto che qualcuna tra il gruppo delle donne inizia il suo lamento, mentre alla fine c'è scritto prima che la donna che ha detto il lamento sta piangendo, e che l' intera folla attorno piange o geme di dolore. Questi sono dei temi formulari che si ripetono.
+
+6. ><br>  
+    ||SINONIMO|CONTRARIO
+    |-|-|-|
+    |OCCULTO|ARCANO|EVIDENTE
+    |OCCULTO|IMPERSCRUTABILE|MANIFESTO
+    |OCCULTO|NASCOSTO|PALESE
+
+    > Un' attività occulta è un' attività segreta.<br>
+    > Le scienze occulte sono teorie e pratiche divinatorie che implicano la capacità di usare forze o esseri sovrannaturali per ottenere degli obbiettivi.<br>
+    > Per potere occulto si intende la presenza di organizzazioni trnasnazionali non governative che operano dietro le quinte dei governi istituzionali, manovrando i rappresentanti dei presidi secondari, meri esecutori delle impostazioni provenienti dall' esterno ( cit. sito complottistico trovato online )
+
+7. > <br>Quel poveraccio merita il nostro ***compianto***<br>
+     <sup>SIGNIFICATO DI COMPIANTO IN QUESTA FRASE<br></sup>
+    _rimpianto_<br><br>
+     > Il ***compianto*** ragionier rossi l' aveva detto più volte<br>
+     <sup>SIGNIFICATO DI COMPIANTO IN QUESTA FRASE<br></sup>
+     _scomparso, defunto._
+8. > <br>Pavido significa timoroso, codardo, un suo contrario è audace.
+
+9. > <br>_paventò la morte Chi la vita abborria (Leopardi)_  
+    > Paventare significa temere, avere paura.  <br><br>
+    > _il cavallo si è spaventato per il fragore del treno_    
+    > Spaventare significa incutere spavento, riempire di spavento, provocare timore  
+    
+# Note <!-- Metadata: type: Note; created: 2020-09-16 15:20:48; reads: 1; read: 2020-09-16 15:20:48; revision: 1; modified: 2020-09-16 15:20:48; -->
+
