@@ -27,5 +27,3 @@ In fretta costruirono un rialzo, riversandovi la terra.
 Vi erano guardie per tutto, affinché gli Achei ben armati non li assalissero durante i funerali.
 Dopo aver versato il tumulo, tornarono indietro; poi, raccolti come è giusto fare, allestirono il glorioso banchetto funebre in casa di Priamo, il re stirpe di Zeus. 
 Così onorarono la sepoltura d' Ettore domatore di cavalli.
-# Note <!-- Metadata: type: Note; created: 2020-09-16 15:16:54; reads: 1; read: 2020-09-16 15:16:54; revision: 1; modified: 2020-09-16 15:16:54; -->
-
