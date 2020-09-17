@@ -1,32 +1,51 @@
-# Esercizi pagina 212 <!-- Metadata: type: Outline; created: 2020-09-15 22:08:14; reads: 29; read: 2020-09-17 10:22:50; revision: 29; modified: 2020-09-17 10:22:50; importance: 4/5; urgency: 5/5; progress: 100%; -->
-# Esercizi Pagina 212 <!-- Metadata: type: Note; created: 2020-09-15 22:08:14; reads: 12; read: 2020-09-17 10:18:00; revision: 6; modified: 2020-09-16 14:27:39; -->
+# Esercizi pagina 212
 
-1. > Priamo stringe i ginocchi di Achille e gli bacia la mano. La prima reazione di Achille è di stupore. <!-- Metadata: type: Note; created: 2020-09-15 23:31:45; reads: 1; read: 2020-09-15 23:31:45; revision: 1; modified: 2020-09-15 23:31:45; --> <!-- Metadata: type: Note; created: 2020-09-16 14:27:39; reads: 11; read: 2020-09-17 10:18:01; revision: 1; modified: 2020-09-16 14:27:39; --> <!-- Metadata: type: Note; created: 2020-09-17 10:18:22; reads: 4; read: 2020-09-17 10:19:04; revision: 2; modified: 2020-09-17 10:19:04; -->
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. > Priamo stringe i ginocchi di Achille e gli bacia la mano. La prima reazione di Achille è di stupore.
+
+---
+
 2. > Priamo ricorda ad Achille che il suo padre è anziano quanto lui e certamente spera che presto egli torni dalla guerra.
-___
+
+---
+
 3. > Priamo gli ricorda che lui ha avuto molti figli , fra cui l'unico sopravvissuto era Ettore che proteggeva Troia, e pensa di essere più sventurato del padre di Achille, perchè costretto a inginocchiarsi di fronte a chi ha ucciso il figlio.
-___
+
+---
+
 4. > Priamo _si definisce_ più misero del padre di Achille perché deve inginocchiarsi per recuperarne il cadavere.  Invoca la compassione e la restituzione del cadavere in nome dei numi e della pietà verso di lui. <!-- Metadata: type: Note; created: 2020-09-15 23:31:45; reads: 1; read: 2020-09-15 23:31:45; revision: 1; modified: 2020-09-15 23:31:45; --> <!-- Metadata: type: Note; created: 2020-09-16 14:27:39; reads: 13; read: 2020-09-17 10:18:01; revision: 1; modified: 2020-09-16 14:27:39; --> <!-- Metadata: type: Note; created: 2020-09-17 10:18:22; reads: 5; read: 2020-09-17 10:19:07; revision: 1; modified: 2020-09-17 10:18:22; -->
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
 5. > All'inizio e alla fine del suo discorso Priamo richiama Achille al ricordo del suo padre.
-___
+
+---
+
 6. > Le parole di Priamo inducono in Achille una reazione di compassione e di dolore per il ricordo del padre Peleo e di Patroclo. Anche ammirazione per il gesto di Priamo.
-___
+
+---
+
 . <!-- Metadata: type: Note; created: 2020-09-16 14:27:39; reads: 16; read: 2020-09-17 10:18:01; revision: 2; modified: 2020-09-17 10:17:51; --> <!-- Metadata: type: Note; created: 2020-09-17 10:18:22; reads: 5; read: 2020-09-17 10:19:09; revision: 1; modified: 2020-09-17 10:18:22; -->
-------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
 
 7. > Achille aiuta Priamo a rialzarsi ed esprime compassione. <!-- Metadata: type: Note; created: 2020-09-17 10:18:22; reads: 3; read: 2020-09-17 10:19:09; revision: 1; modified: 2020-09-17 10:18:22; -->
--------------------------------------------------------------
+
+---
+
 8. >Achile dice a Priamo che ha patito molto, ed esprime stupore per la sua determinazione a recarsi presso i Greci, ed ammirazione per il suo coraggio.
-___
+
+---
+
 9. 
 * > a.) Zeus distribuisce pene e gioie ad alcuni uomini, ma rende infelice colui cui da solo doni cattivi. 
 * >  b.) Peleo ha avuto sia doni buoi che cattivi, ma Priamo, pare ad Achille, solo cattivi. 
 *  >  c.) Fondamentalmente che la felicità e l'infelicità dipendono dai voleri casuali degli dei. 
 *  >  d.) Gli dei sono indifferenti verso gli uomini.
 10. > Achille richiama il fatto che nulla si puo rispetto al volere degli dei, e invita Priamo a lasciare dentro l'animo i dolori <!-- Metadata: type: Note; created: 2020-09-15 23:31:45; reads: 1; read: 2020-09-15 23:31:45; revision: 1; modified: 2020-09-15 23:31:45; --> <!-- Metadata: type: Note; created: 2020-09-16 14:27:39; reads: 8; read: 2020-09-17 10:18:22; revision: 4; modified: 2020-09-17 10:18:22; --> <!-- Metadata: type: Note; created: 2020-09-17 10:18:22; reads: 3; read: 2020-09-17 10:22:50; revision: 2; modified: 2020-09-17 10:22:50; -->
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
 11. > Parole ed espressioni che trasmettono l' umanità di Achille mentre accoglie Priamo:
     - _Ah misero, quanti mali hai patito nel cuore_
     - _I dolori lasciamoli dentro nell' animo_
@@ -34,7 +53,9 @@ ___
     - _Sopporta dunque e non gemere senza posa nel cuore_
     - _S' alzo da un seggio ad un tratto e rialzò il vecchio per mano_
     - _ma Achile piangeva il padre, e ogni tanto anche Patroclo_
+
 ---
+
 12. > La similitudine
  
     > ___Come quando una grave colpa travolge un uomo, che, dopo aver assassinato qualcuno in patria, fuggito in esilio in un altro paese, cerca ospitalità in casa di un ricco, e i presenti restano sbalorditì, così Achille restò, dopo aver visto Priamo simile agli Dei, anche gli altri si stupirono e si guardarono in faccia a vicenda.___
@@ -43,7 +64,9 @@ ___
     - Un omicida bandito dalla sua cità che chiede ospitalità
     - Il re dei Troiani che va nel campo dei nemici e nella tenda dell' uccisore del figlio più amato
     > trovano un massimo comun divisiore nell' assurdità di entrambe le surreali situazioni. 
+
 ---
+
 13. > Ci sono due punti in cui il narratore spiega la situazione e descrive i comportamenti dei personaggi
     - _Il glorioso re Priamo entrò senza essere visto, strinse tra le mani i ginocchi di Achille, baciò la sua mano, omicida che gli aveva ucciso molti figliuoli. Come quando una grave colpa travolge un uomo, che, dopo aver assassinato qualcuno in patria, fuggito in esilio in un altro paese, cerca ospitalità in casa di un ricco, e i presenti restano sbalorditì, così Achille restò, dopo aver visto Priamo simile agli Dei, anche gli altri si stupirono e si guardarono in faccia a vicenda._
  
@@ -51,7 +74,9 @@ ___
     - _gli fece nascere desiderio di piangere il padre: Achille gli prese la mano e allontanò da sé il vecchio con delicatezza. Entrambi pensavano, uno piangeva Ettore lo sterminatore, a lungo, rannicchiandosi ai piedi d' Achille, invece Achille piangeva il padre, e ogni tanto anche Patroclo, quel pianto si diffondeva per la tenda. 
 Quando il glorioso Achille finì di piangere, trasformò il suo desiderio in fatti: alzandosi dal seggio e sollevando da terra il vecchio, commiserando la testa e la barba bianchi, rivolgendosì a lui parlò parole volatili..._
     > Intendono principalmente descrivere l' ambiente per farci immedesimare in tutta la sua totalità dai singoli gesti, espressioni ed emozioni degli eroi a una descrizione generale dell' ambiente circostante.
+
 ---
+
 14. > Significati di parole derivate dal termine greco **geron/gerontos** --> **vecchio**
 
 
@@ -60,12 +85,18 @@ Quando il glorioso Achille finì di piangere, trasformò il suo desiderio in fat
 |GERIATRA| Un medico che si occupa di persone anziane
 |GERONTOCOMIO| Un posto dove vengono ricoverate le persone anziane
 |GERONTOCRAZIA| Il potere degli anziani, uno Stato in cui il potere è concentrato negli anziani.
-___
+
+---
+
 15. > Il termine greco àlgos significa dolore. Un analgesico contrasta il dolore. Altre parole italiane che hanno come desinenza -algìa sono:
     - Nevralgia ( dolore al nervo)
     - Mialgia ( dolore in uno o più muscoli ) 
     - Lombargia ( mal di schiena )
     - Cefalgia ( dolore alla testa )
-___
+
+---
+
 <sup> Andrea Bortolotti </sup>
-___
+
+---
+
