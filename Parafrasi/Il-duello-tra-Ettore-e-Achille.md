@@ -1,4 +1,3 @@
-# Parafrasi "Il duello tra Ettore e Achille" <!-- Metadata: type: Outline; created: 2020-09-15 16:25:08; reads: 5; read: 2020-09-15 16:26:15; revision: 5; modified: 2020-09-15 16:26:15; importance: 4/5; urgency: 5/5; progress: 100%; -->
 # Parafrasi " Il duello tra Ettore e Achille " <!-- Metadata: type: Note; created: 2020-09-15 16:25:08; reads: 4; read: 2020-09-15 16:26:15; revision: 3; modified: 2020-09-15 16:26:15; -->
 Dicendo così, Atena lo precedette subdolamente. Quando furono vicini l’ uno all’ altro il glorioso Ettore dall’ elmo scintillante disse ciò ad Achille: 
 
