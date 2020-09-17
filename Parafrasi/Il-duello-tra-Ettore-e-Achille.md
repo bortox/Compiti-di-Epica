@@ -33,5 +33,6 @@ Ettore, elmo lucente, rispose morendo:
 
 Mentre diceva così, lo avvolse la morte: la vita volò via dal suo corpo e  scese nell’Ade, piangendo il suo destino, lasciando la giovinezza e il vigore.
 
+
 <br><br><br>
-> [:leftwards_arrow_with_hook: Torna all' indice](https://github.com/bortox/Compiti-di-Epica/blob/master/README.md)
+> [↩️ Torna all' indice](../README.md)
