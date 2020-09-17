@@ -1,5 +1,3 @@
-# Parafrasi "Priamo si reca alla tenda di Achille" <!-- Metadata: type: Outline; created: 2020-09-15 22:07:50; reads: 17; read: 2020-09-17 10:25:56; revision: 17; modified: 2020-09-17 10:25:56; importance: 4/5; urgency: 5/5; progress: 100%; -->
-# Parafrasi <!-- Metadata: type: Note; created: 2020-09-15 22:07:50; reads: 14; read: 2020-09-17 10:25:56; revision: 8; modified: 2020-09-17 10:25:56; -->
  # __Priamo si reca alla tenda di Achille__
 
 Il glorioso re Priamo entrò senza essere visto, strinse tra le mani i ginocchi di Achille, baciò la sua mano, omicida che gli aveva ucciso molti figliuoli. Come quando una grave colpa travolge un uomo, che, dopo aver assassinato qualcuno in patria, fuggito in esilio in un altro paese, cerca ospitalità in casa di un ricco, e i presenti restano sbalorditì, così Achille restò, dopo aver visto Priamo simile agli Dei, anche gli altri si stupirono e si guardarono in faccia a vicenda. 
