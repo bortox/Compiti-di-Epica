@@ -17,5 +17,11 @@
 2. ## Recensioni:  
  * [x] [Alessandro Baricco](Recensioni%20Iliade/Baricco.md)
  * [x] [Maria Grazia Ciani](Recensioni%20Iliade/Maria%20Grazia%20Ciani.md)
-
+<br><br>
+### Hai trovato un' errore nei compiti?
+#### Puoi [aprire una issue su Github](https://github.com/bortox/Compiti-di-Epica/issues/new)
+> ##### Se non ci riesci, [Inviami una mail](mailto:andrea.bortolotti@iisagnoletti.it&subject=Errore%20nella%20repository%20Compiti-di-Epica&body=Ho%20trovato%20un%20errore%20negli%20esercizi%20delle%20pagine%20202%20e%20203%2C%20nell%27%20esercizio%2013%20manca%20un%20punto.%20Potresti%20aggiungere%20il%20punto.%20%C3%88%20alla%20riga%20138.%20%28esempio%20di%20segnalazione%20di%20errore%20piuttosto%20stupido%2C%20ma%20dovresti%20includere%20dove%20hai%20trovato%20l%27%20errore%20e%20come%20risolverlo%29)
+#### Cosa includere nella segnalazione dell' errore:
+   * - [x] In quale documento hai trovato l' errore
+   * - [x] La tua ipotesi per correggere l' errore
 > Libro di Epica: Narrami o musa, seconda edizione
