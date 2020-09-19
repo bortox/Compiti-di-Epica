@@ -18,7 +18,7 @@
  * [x] [Alessandro Baricco](Recensioni%20Iliade/Baricco.md)
  * [x] [Maria Grazia Ciani](Recensioni%20Iliade/Maria%20Grazia%20Ciani.md)
 <br><br><span style="color:red">
-### Hai trovato un' errore nei compiti?</span>
+### 🔴 Hai trovato un' errore nei compiti?</span>
 #### Puoi [aprire una issue su Github](https://github.com/bortox/Compiti-di-Epica/issues/new)
 > ##### Se non ci riesci, [Inviami una mail]( mailto:andrea.bortolotti@iisagnoletti.it?subject=Errore%20nella%20repo%20%22Compiti-di-Epica%22&body=Nell'%20esercizio%2013%20manca%20un%20punto.%20Potresti%20aggiungere%20il%20punto.%20%C3%88%20alla%20riga%20138.%0D%0A(questo%20%C3%A8%20un%20esempio%20di%20segnalazione%20di%20errore%20piuttosto%20stupido%2C%20ma%20dovresti%20includere%20dove%20hai%20trovato%20l'%20errore%20e%20come%20risolverlo )
 #### Cosa includere nella segnalazione dell' errore:
