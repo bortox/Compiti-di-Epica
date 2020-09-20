@@ -8,7 +8,7 @@
       - [x] [Parafrasi](Parafrasi/Andromaca-dalle-mura-scorge-il-cadavere-di-Ettore.md)
       - [x] [Esercizi (206,207)](Esercizi/206-207.md)  
     * ### Priamo si reca alla tenda di Achille  
-      - [x] [Parafrasi](Parafrasi/Priamo-si-reca-alla-tenda-di-Achille.md.md)
+      - [x] [Parafrasi](Parafrasi/Priamo-si-reca-alla-tenda-di-Achille.md)
       - [x] [Esercizi (212)](Esercizi/212.md)  
     * ### I funerali di Ettore  
       - [x] [Parafrasi](Parafrasi/I-funerali-di-Ettore.md)
