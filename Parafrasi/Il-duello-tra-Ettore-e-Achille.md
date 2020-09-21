@@ -25,7 +25,7 @@ Ettore, elmo lucente, gli rispose senza più forza;
 > _Ti prego per la tua vita, per le ginocchia, per i tuoi genitori, non lasciare che i cani degli Achei mi sbranino vicino alle navi, ma accetta infinito oro e bronzo, i doni che ti daranno il padre e la nobile madre: rendi il mio corpo alla mia patria perché gli uomini e le donne di Troia mi possano rendere l’onore del rogo funebre._
 
 Achille dal pié veloce, guardandolo minaccioso, disse:
-> _No, cane, non mi invocare, né per i ginocchi né per i genitori; ah! L' ira e il furore mi spingerebbero a lacerarti e sbranarti vivo, a causa di ciò che mi hai fatto, nessuno potrà allontanare le cagne dal tuo corpo, neanche se mi compensassero con un riscatto infinito dieci, venti volte, anche se promettessero qualsiasi cosa: non ti restituirò nemmeno se Priamo discendente di Dardano a peso d' oro mi compenserà, la nobile madre non piangerà il figlio che ha partorito steso sul letto, ma cani e uccelli ti sbraneranno totalmente._
+> _No, cane, non mi invocare, né per i ginocchi né per i genitori; ah! L' ira e il furore mi spingerebbero a lacerarti e sbranarti vivo, a causa di ciò che mi hai fatto, nessuno potrà allontanare le cagne dal tuo corpo, neanche se mi compensassero con un riscatto infinito dieci, venti volte, anche se promettessero qualsiasi cosa: non ti restituirò nemmeno se Priamo ,discendente di Dardano, a peso d' oro mi compenserà, la nobile madre non piangerà il figlio che ha partorito steso sul letto, ma cani e uccelli ti sbraneranno totalmente._
 
 Ettore, elmo lucente, rispose morendo: 
 
