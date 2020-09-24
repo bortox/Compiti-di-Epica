@@ -6,7 +6,7 @@ Priamo parlò a lui, iniziando a pregarlo:
 Ora sono qui, alle vostre navi, per Lui, per riscattarlo da te, ti porto doni infiniti. Achille, abbi rispetto per gli dei, abbi pietà di me, pensando al padre tuo: io sono più misero, nessun altro mortale ha patito quanto me, portando alla bocca la mano dell' uomo che ha ucciso i miei figli!_
 
 Questo disse Priamo, gli fece nascere desiderio di piangere il padre: Achille gli prese la mano e allontanò da sé il vecchio con delicatezza. Entrambi pensavano, uno piangeva Ettore lo sterminatore, a lungo, rannicchiandosi ai piedi d' Achille, invece Achille piangeva il padre, e ogni tanto anche Patroclo, quel pianto si diffondeva per la tenda. 
-Quando il glorioso Achille finì di piangere, trasformò il suo desiderio in fatti: alzandosi dal seggio e sollevando da terra il vecchio, commiserando la testa e la barba bianchi, rivolgendosì a lui parlò parole volatili: 
+Quando il glorioso Achille fu sazio delle lacrime, trasformò il suo desiderio in fatti: alzandosi dal seggio e sollevando da terra il vecchio, commiserando la testa e la barba bianchi, rivolgendosì a lui parlò parole volatili: 
 
 > _Ah misero, quanti mali hai patito nel cuore! Come hai potuto venire da solo alle navi dei Greci, sotto gli occhi di un uomo che ti ha ucciso molti e gagliardi figliuoli? Hai forza d' animo salda come il ferro. Suvvia, ora siediti, lasciamo i dolori dentro ai nostri cuori; per quanto afflitti: il pianto non giova a nessuno._
 > 
